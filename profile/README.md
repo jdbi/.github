@@ -4,7 +4,7 @@ The Jdbi library provides convenient, idiomatic access to relational databases i
 
 Jdbi is built on top of JDBC. If your database has a JDBC driver, you can use Jdbi with it.
 
-* [Developer Guide](https://jdbi.github.io/)
+* [Developer Guide](https://jdbi.org/)
 * [Javadoc](https://jdbi.org/apidocs/)
 * [User forums](https://github.com/jdbi/jdbi/discussions)
 * [Mailing List](http://groups.google.com/group/jdbi)
